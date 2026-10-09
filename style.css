@@ -13,7 +13,8 @@ body {
 
 main {
     width: 90%;
-    margin: 50px;
+    max-width: 800px;
+    margin: 50px auto;
 }
 
 header {
@@ -110,7 +111,7 @@ h2 a {
     a {
         text-decoration: none;
     }
-    
+
 }
 
 
